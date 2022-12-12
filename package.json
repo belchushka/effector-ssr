@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-with-effector",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "effector": "^22.4.0",
+    "effector-react": "^22.3.4",
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/node": "18.11.13",
+    "@types/react": "^18.0.26",
+    "sass": "^1.56.2",
+    "typescript": "^4.9.4"
+  }
+}
